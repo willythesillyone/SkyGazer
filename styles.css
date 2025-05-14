@@ -148,5 +148,7 @@ body {
         0 0 5px #fff, 
         0 0 10px #fff, 
         0 0 15px #fff; /* Subtle white glow */
-    margin: 0; /* Remove default margin */
+    margin-top: 0.5em;
+    margin-left: 2em;
+    margin-right: 2em;
 }
