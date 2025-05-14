@@ -138,18 +138,6 @@ body {
 .star:nth-child(5)::after {
     animation-delay: 1.8s;
 }
-/* Make the body full height and set a dark background */
-body {
-    background-color: #000; /* Dark background to enhance text glow */
-    color: #fff;
-    font-family: Arial, sans-serif;
-    margin: 0;
-    height: 100vh;
-    display: flex;
-    justify-content: center; /* Center horizontally */
-    align-items: flex-start; /* Align text at the top */
-    padding-top: 20px; /* Optional: Add some spacing from the top */
-}
 
 /* Glowing text style */
 .glow {
