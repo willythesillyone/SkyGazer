@@ -141,7 +141,7 @@ body {
 
 /* Glowing text style */
 .glow {
-    font-size: 2.5rem; /* Adjust size as needed */
+    font-size: 1.5rem; /* Adjust size as needed */
     color: #fff; /* Base text color */
     text-align: center; /* Center align the text */
     text-shadow: 
